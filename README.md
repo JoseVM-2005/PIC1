@@ -1,2 +1,2 @@
 # PIC1
-This repository contains all the code for the PIC1 project (end of bachelor's project in physics at IST). There are multiple sub-projects, those in which the thesis was divided.
+This repository contains all the code for the PIC1 project (end of bachelor's project in physics at IST). There are multiple sub-projects, those in which the thesis was divided. It is simply a compilation so it can be access by the examinors and only contains the code updated by the time project was submited. Check other repositories for updated versions of these sub-projects.
